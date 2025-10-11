@@ -1,11 +1,4 @@
--- Movement Recording Export
--- Created by: pepeyowok
--- Game: Gunung YNTKTS [CARRY] (Place ID: 92811427244720)
--- Exported: 2025-10-11 23:10:07
--- Frames: 4523 | Duration: 274.17s
--- Animation Frames: 4523 | Unique Animations: 8
-
-local recording = {
+{
     {0.000,-659.769,58.531,-443.780,1.744,{"moodAnim","IdleAnim"}},
     {0.064,-659.769,58.531,-443.780,1.744,{"moodAnim","IdleAnim"}},
     {0.116,-659.769,58.531,-443.780,1.744,{"moodAnim","IdleAnim"}},
@@ -4530,5 +4523,3 @@ local recording = {
     {274.102,4444.722,83.450,-308.601,-1.618,{"moodAnim","toolnoneAnim","IdleAnim"}},
     {274.171,4444.722,83.450,-308.601,-1.618,{"moodAnim","toolnoneAnim","IdleAnim"}}
 }
-
-return recording
